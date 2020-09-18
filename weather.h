@@ -1,7 +1,7 @@
 //.h file
-#ifndef W_C
-#define WEATHER_C
+#ifndef WEATHER_H
+#define WEATHER_H
 
 void weather();
 
-#endif // WEATHER_C
+#endif // WEATHER_H
