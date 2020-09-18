@@ -1,5 +1,5 @@
 # Name of the project
-	PROJECT_NAME =BMI_index_calculator
+	PROJECT_NAME =Solar-Cell
 	
 	# Output directory
 	BUILD = build
@@ -34,3 +34,4 @@
 	# Create new build folder if not present
 	$(BUILD):
 		mkdir build
+	
