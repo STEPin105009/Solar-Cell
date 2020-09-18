@@ -6,7 +6,7 @@
 	
 	# All source code files
 	SRC = main.c\
-	bmi.c\
+	weather.h\
 	
 	
 	# All include folders with header files
